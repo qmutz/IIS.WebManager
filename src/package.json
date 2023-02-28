@@ -24,7 +24,7 @@
     "@angular/material": "7.1.1",
     "@microsoft/windows-admin-center-sdk": "1.381.1",
     "@ng-bootstrap/ng-bootstrap": "4.1.1",
-    "@types/jquery": "3.3.29",
+    "@types/jquery": "3.5.16",
     "angular-font-awesome": "3.1.2",
     "angulartics2": "7.4.1",
     "bootstrap": "3.4.1",
