@@ -22,7 +22,7 @@
     "@angular/animations": "7.1.1",
     "@angular/cdk": "7.1.1",
     "@angular/material": "7.1.1",
-    "@microsoft/windows-admin-center-sdk": "1.381.1",
+    "@microsoft/windows-admin-center-sdk": "2.294.0",
     "@ng-bootstrap/ng-bootstrap": "4.1.1",
     "@types/jquery": "3.3.29",
     "angular-font-awesome": "3.1.2",
